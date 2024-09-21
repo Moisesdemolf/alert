@@ -321,7 +321,6 @@
   .custom-alert .close-btn-android {
     cursor: pointer;
     float: right;
-    width: 63px;
     height: 42px;
     border: none;
     background-color: transparent;
@@ -462,7 +461,6 @@
   .custom-alert .confir-btn-android {
     cursor: pointer;
     float: right;
-    width: 63px;
     height: 42px;
     border: none;
     background-color: transparent;
